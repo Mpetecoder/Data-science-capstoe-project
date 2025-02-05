@@ -1,1 +1,1 @@
-# Data-science-capstoe-project
+# Data-science-capstone-project
